@@ -19,7 +19,7 @@ public:
     Kunde(string vornameIn, string nachnameIn, int IDIn);
     string getVorname();
     string getNachname();
-    int getID();
+    int getCustomerID();
     void setVorname(string vornameIn);
     void setNachname(string nachnameIn);
     void setID(int iDIn);

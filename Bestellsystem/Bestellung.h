@@ -14,7 +14,9 @@ public:
 	Bestellung();
 	Bestellung(Kunde k);
 	Kunde getKunde();
-	void addProdukt(Produkt* newprod);
+	void addProdukt(Produkt* produkt);
+	void delProdukt(int IDIn);
+	void printBestellung();
 	Produkt* getProdukt(int a);
 	~Bestellung();
 };

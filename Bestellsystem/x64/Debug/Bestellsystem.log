@@ -1,2 +1,5 @@
-﻿  main.cpp
+﻿  Bestellsystem.cpp
+  main.cpp
+C:\Users\poldi\source\repos\Bestellsystem\Bestellsystem\main.cpp(48,15): warning C4101: "Eingabe2": Unreferenzierte lokale Variable
+  Code wird generiert...
   Bestellsystem.vcxproj -> C:\Users\poldi\source\repos\Bestellsystem\x64\Debug\Bestellsystem.exe

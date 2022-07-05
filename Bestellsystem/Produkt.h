@@ -13,6 +13,7 @@ public:
 	Produkt();
 	Produkt(int IDIn, string nameIn);
 	int getID();
+	void printProdukt();
 	string getProduktName();
 	~Produkt();
 };

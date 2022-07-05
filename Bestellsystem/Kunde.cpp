@@ -20,7 +20,7 @@ string Kunde::getNachname()
 	return nachname;
 }
 
-int Kunde::getID()
+int Kunde::getCustomerID()
 {
 	return ID;
 }
